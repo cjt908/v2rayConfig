@@ -21,12 +21,12 @@
   ],
   "outbounds":[
     {
-      "protocol":"proxy",
+      "protocol":"vmess",
       "settings":{
         "vnext":[
           {
-            "address":"1.2.3.4",
-            "port":443,
+            "address":"149.28.95.106",
+            "port":8888,
             "users":[
               {
                 "id":"8ef3960e-3709-47fa-66b5-aadf69906cc9",
@@ -36,7 +36,7 @@
           }
         ]
       },
-      "tag":"out-0",
+      "tag":"proxy",
       "streamSettings":{
         "network":"tcp",
         "security":"none",
