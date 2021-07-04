@@ -46,7 +46,8 @@
         "domain": [
           "geosite:category-ads-all",
 		  "porn",
-		  "xvideo"
+		  "xvideo",
+		  "xnxx"
         ],
         "outboundTag": "blocked"
       }
